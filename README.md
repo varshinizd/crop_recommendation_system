@@ -57,7 +57,7 @@ Dynamic crop recommendation based on continuously updated environmental inputs
 
 Run this in your terminal:
 1. Clone the Repository:
-   git clone https://github.com/your-username/crop-recommender-system.git
+   git clone https://github.com/varshinizd/crop-recommender-system.git
    cd crop-recommender-system
    
 3. Install Dependencies
