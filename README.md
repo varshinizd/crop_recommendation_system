@@ -65,7 +65,6 @@ Run this in your terminal:
 
 4. Run the Flask App:
    python app.py
-   This launches your Flask app locally.
 
 4. Access the Web App
    Open your browser and go to: http://127.0.0.1:5000/
