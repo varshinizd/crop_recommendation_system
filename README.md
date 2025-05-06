@@ -51,8 +51,23 @@ app.py - Flask backend application
 
 templates/ - Contains HTML and CSS files
 
-Future Enhancements
+Future Enhancements:
 Integration of real-time sensors to gather live data from the field
-
 Dynamic crop recommendation based on continuously updated environmental inputs
+
+Run this in your terminal:
+1. Clone the Repository:
+   git clone https://github.com/your-username/crop-recommender-system.git
+   cd crop-recommender-system
+   
+3. Install Dependencies
+   pip install -r requirements.txt
+   This installs all Python libraries listed in the requirements.txt file.
+
+4. Run the Flask App:
+   python app.py
+   This launches your Flask app locally.
+
+4. Access the Web App
+   Open your browser and go to: http://127.0.0.1:5000/
 
