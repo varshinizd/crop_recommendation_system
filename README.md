@@ -45,9 +45,6 @@ VS Code (development environment)
 
 HTML, CSS (frontend technologies)
 
-Directory Structure
-Trained model is stored as a .pkl file in the same directory as the Jupyter Notebook used for training
-
 app.py - Flask backend application
 
 templates/ - Contains HTML and CSS files
