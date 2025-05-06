@@ -52,6 +52,7 @@ app.py - Flask backend application
 templates/ - Contains HTML and CSS files
 
 Future Enhancements:
+
 Integration of real-time sensors to gather live data from the field
 Dynamic crop recommendation based on continuously updated environmental inputs
 
