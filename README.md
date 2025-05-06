@@ -23,7 +23,8 @@ Trained model is saved and loaded using pickle
 
 Web application built with Flask and served via a basic HTML/CSS frontend
 
-Technologies and Libraries Used
+Technologies and Libraries Used:
+
 Python
 
 Pandas
