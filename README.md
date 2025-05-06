@@ -59,7 +59,7 @@ Run this in your terminal:
    git clone https://github.com/varshinizd/crop-recommender-system.git
    cd crop-recommender-system
    
-3. Install Dependencies
+3. Install Dependencies:
    pip install -r requirements.txt
    This installs all Python libraries listed in the requirements.txt file.
 
